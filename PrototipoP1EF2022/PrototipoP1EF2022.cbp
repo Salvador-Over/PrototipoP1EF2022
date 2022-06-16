@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PrototipoP1EF2022" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PrototipoP1EF2022" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PrototipoP1EF2022" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/asientos.h" />
+		<Unit filename="include/cines.h" />
+		<Unit filename="include/clientes.h" />
+		<Unit filename="include/ingreso.h" />
+		<Unit filename="include/menus.h" />
+		<Unit filename="include/peliculas.h" />
+		<Unit filename="include/salas.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/asientos.cpp" />
+		<Unit filename="src/cines.cpp" />
+		<Unit filename="src/clientes.cpp" />
+		<Unit filename="src/ingreso.cpp" />
+		<Unit filename="src/menus.cpp" />
+		<Unit filename="src/peliculas.cpp" />
+		<Unit filename="src/salas.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

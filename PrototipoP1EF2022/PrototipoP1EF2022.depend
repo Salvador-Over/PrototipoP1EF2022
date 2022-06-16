@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1655399609 source:c:\users\saul_\proyectos\examen final\prototipop1ef2022\main.cpp
+	<iostream>
+	<conio.h>
+	"ingreso.h"
+	"menus.h"
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1655401311 source:c:\users\saul_\proyectos\examen final\prototipop1ef2022\src\ingreso.cpp
+	"ingreso.h"
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1655399508 c:\users\saul_\proyectos\examen final\prototipop1ef2022\include\ingreso.h
+
+1655400415 c:\users\saul_\proyectos\examen final\prototipop1ef2022\include\menus.h
+
+1655409586 source:c:\users\saul_\proyectos\examen final\prototipop1ef2022\src\menus.cpp
+	"menus.h"
+	"peliculas.h"
+	"clientes.h"
+	"salas.h"
+	"asientos.h"
+	"cines.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1655409292 source:c:\users\saul_\proyectos\examen final\prototipop1ef2022\src\asientos.cpp
+	"asientos.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"menus.h"
+
+1655408774 c:\users\saul_\proyectos\examen final\prototipop1ef2022\include\asientos.h
+
+1655409990 source:c:\users\saul_\proyectos\examen final\prototipop1ef2022\src\cines.cpp
+	"cines.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"menus.h"
+
+1655409586 c:\users\saul_\proyectos\examen final\prototipop1ef2022\include\cines.h
+
+1655407522 source:c:\users\saul_\proyectos\examen final\prototipop1ef2022\src\clientes.cpp
+	"clientes.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"menus.h"
+
+1655406755 c:\users\saul_\proyectos\examen final\prototipop1ef2022\include\clientes.h
+
+1655408428 source:c:\users\saul_\proyectos\examen final\prototipop1ef2022\src\salas.cpp
+	"salas.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"menus.h"
+
+1655407715 c:\users\saul_\proyectos\examen final\prototipop1ef2022\include\salas.h
+
+1655406292 c:\users\saul_\proyectos\examen final\prototipop1ef2022\include\peliculas.h
+
+1655406353 source:c:\users\saul_\proyectos\examen final\prototipop1ef2022\src\peliculas.cpp
+	"peliculas.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"menus.h"
+
